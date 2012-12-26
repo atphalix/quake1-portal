@@ -1,0 +1,52 @@
+
+// entity 0
+{
+"classname" "worldspawn"
+"message" "No Name"
+"worldtype" "0"
+"wad" "textures/free_wad.wad"
+// brush 0
+{
+( 0 16 12 ) ( 0 0 12 ) ( 0 0 0 ) 2 0 0 0 0.125 0.09375
+( 20 16 0 ) ( 20 0 0 ) ( 20 0 12 ) 2 0 0 0 0.125 0.09375
+( 20 0 0 ) ( 0 0 0 ) ( 0 0 12 ) 2 0 0 0 0.15625 0.09375
+( 20 16 12 ) ( 0 16 12 ) ( 0 16 0 ) 2 0 0 0 0.15625 0.09375
+( 20 16 0 ) ( 0 16 0 ) ( 0 0 0 ) 2 0 0 0 0.15625 0.125
+( 20 0 12 ) ( 0 0 12 ) ( 0 16 12 ) 2 0 0 0 0.15625 0.125
+}
+}
+// entity 1
+{
+"classname" "light"
+"origin" "-28 16 16"
+"light" "128"
+"style" "0"
+}
+// entity 2
+{
+"classname" "light"
+"origin" "68 16 16"
+"light" "128"
+"style" "0"
+}
+// entity 3
+{
+"classname" "light"
+"origin" "20 16 48"
+"light" "192"
+"style" "0"
+}
+// entity 4
+{
+"classname" "light"
+"origin" "20 64 16"
+"light" "160"
+"style" "0"
+}
+// entity 5
+{
+"classname" "light"
+"origin" "20 -32 16"
+"light" "96"
+"style" "0"
+}

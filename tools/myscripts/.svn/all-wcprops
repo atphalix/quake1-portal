@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/30/branches/testing/tools/myscripts
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30/branches/testing/tools/myscripts/compile.sh
+END
+launchbox
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/30/branches/testing/tools/myscripts/launchbox
+END
+buildpaks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/branches/testing/tools/myscripts/buildpaks.sh
+END
+buildwads.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/branches/testing/tools/myscripts/buildwads.sh
+END
+convert.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/30/branches/testing/tools/myscripts/convert.sh
+END
+makemap
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/branches/testing/tools/myscripts/makemap
+END
+mvcase
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/branches/testing/tools/myscripts/mvcase
+END

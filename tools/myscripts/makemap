@@ -1,0 +1,7 @@
+./gtkradiant-1.5.0/q3map2.x86 -meta -fs_game baseoa -fs_basepath ~/OpenArena ".openarena/baseoa/maps/archibox.map"
+./gtkradiant-1.5.0/q3map2.x86 -vis -fast -fs_game baseoa -fs_basepath ~/OpenArena ".openarena/baseoa/maps/archibox.map"
+
+
+#q3map2.x86 -fs_game baseoa -fs_basepath ~/OpenArena -light -fast -bounce 8 -samples 2 -gamma 2 -sky 0.0 ajactf.bsp
+
+#bspc -bsp2aas ajactf.bsp
