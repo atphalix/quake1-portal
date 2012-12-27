@@ -4,6 +4,9 @@ Quake1 portal gun
 A portal inspired game using Quake1 engine based on:
 http://www.moddb.com/mods/quake-portal-gun
 
+Video of the gameplay:  
+https://www.youtube.com/watch?v=KcJn5ba0928
+
 How to play
 ===========
 
