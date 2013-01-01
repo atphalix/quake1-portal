@@ -1,0 +1,64 @@
+Levels
+======
+
+Textures
+--------
+Walls
+Portal-proof walls
+some vents, lights, arrows, signs... 
+
+Handheld Portal Device
+---------------------------------------
+ + progs/v_portal.mdl (thanks, toneddu2000!)
+
+[+] creates portals
+[+] not on every surface (some tiled floors, metal, doors, windows...)
+
+[-] crosshair: yellow and blue part of oval. when blue portal is fired, only yellow part visible & vice versa
+   -> three crosshairs (qc can't change crosshairs, afaik)
+[-] shooting an orange portal on an existing blue portal (vice versa) will create the portal right next to it, 
+  if the room available allows it.
+[-] portal on wall should never overlap to the underground/other wall - check the height first... (that would be sweet)
+
+
+
+Turrets
+-------
+[-] red eye is actually infrared beam
+[-] full of ammo, shoots everything that moves in his field of sight (not very wide)
+[-] can be disabled (?)
+
+Aperture Science High Energy Pellet system
+------------------------------------------
+[+] launcher produces energy balls (one hit kills) repetitively after some period of time (long), which is same as the lifespawn of ball.
+     => one ball dies, another ball comes
+[-] in advanced levels the green variant appears; it doesn't explode at all. 
+[-] when grabbed with Portal Gun, balls explode
+[+] when ball hits catcher, it will pull the trigger -> open door, activate platform. Catcher is one use only.
+
+=sounds (don't exist yet):
+  - pellet/fire.wav
+  - pellet/hit.wav
+
+=models:
+  - progs/plaunch.mdl
+  - progs/pcatch.mdl
+  + progs/pellet.mdl
+ 
+
+
+1500 Megawatt Heavy Duty Super-Colliding Super Button
+-----------------------------------------------------
+[-] can be weighted with Cube or Player.
+[-] only on floor
+[-] ??momentary or toggle??
+[+] weighted pulls trigger
+
+Advanced Knee Replacement
+-------------------------
+[+] just disable damage from falling (client.qc)
+
+Aperture Science Material Emancipation Grid
+-------------------------------------------
+[+] some kind of forcefield. Custents have great force fields...
+[-] when you go through, your portals are closed.
