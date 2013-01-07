@@ -1,9 +1,9 @@
 Quake1 portal gun
 =================
 
-<img src="http://github.com/atphalix/quake1-portal/raw/master/screen2.jpg" width="70%" height="70%">
+<img src="http://github.com/atphalix/quake1-portal/raw/master/doc/screen2.jpg" width="70%" height="70%">
 
-<img src="http://github.com/atphalix/quake1-portal/raw/master/screen0.jpg" width="70%" height="70%">
+<img src="http://github.com/atphalix/quake1-portal/raw/master/doc/screen0.jpg" width="70%" height="70%">
 
 A portal inspired game using Quake1 engine based on:
 http://www.moddb.com/mods/quake-portal-gun
